@@ -55,6 +55,12 @@ We set 13 discrete positions as anchor points, so as to give mHomeGes the abilit
 **Other documents**: We provide an instruction in the home directory which describes how to perform each arm gesture in details. Note that however, the volunteers learn the gestures only by watching how we perform them.
 
 
+## Data Structure
+
+**Data structure**: The data structure of each gesture is 7* n, where n is various with frames and 7 are 'frame id’, 'detected points in each frame’, 'x coordinate of each point’, 'y coordinate of each point’, 'z coordinate of each point’, 'velocity of each point’ and 'reflection intensity of each point’. In each '.csv’ file, the gestures can be divided by a large interval between each two of them.
+
+**Notice**: In each CSV file, the lost frames are the delimiters among different actions of the same gesture. We asked the volunteers to hold still for about 1 second after each action so as to generate empty frames, and then use these frames as delimiters between each action.
+
 ## Parameters of mmWave Radar
 
 In this mmWave gesture dataset, we utilize the TI-IWR1443 single-chip 76-GHz to 81-GHz mmWave sensor evaluation module.
