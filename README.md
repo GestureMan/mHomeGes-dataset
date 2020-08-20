@@ -52,7 +52,7 @@ We set 13 discrete positions as anchor points, so as to give mHomeGes the abilit
 
 **Random actions**: We leave this part of data into a single folder ``dailyRandom''.
 
-**Other documents**: We provide an instruction in the home directory which describes how to perform each arm gesture in details. Note that however, the volunteers learn the gestures only by watching how we perform them.
+**Other documents**: We provide a gesture instruction in the home directory which describes how to perform each arm gesture in details. Note that however, the volunteers learn the gestures only by watching how we perform them.
 
 
 ## Data Structure
