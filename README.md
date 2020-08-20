@@ -11,41 +11,15 @@ Surpassing the whole-body activities, arm gestures can be performed frequently, 
 In addition to these predefined gestures, the dataset also archives random actions at random positions in daily life, which will help the anti-interference ability of gesture recognition via the proposed methods in mHomeGes.
 Specifically, the ten gestures are as follows: 
 
-![gesturePic](./fig/gesturePic.png)
-
-| Gesture abbr. in mHomeGes | name in dataset | gesture process |
-| ----- | ----- | ----- |
-| AU | up | lift one arm up |
-| AD | down | put one arm down |
-| PS | push | push one arm out |
-| PL | pull | pull one arm in |
-| DC | circle | draw a circle |
-| DZ | z | draw a zigzag |
-| CH | clap | clap two hands |
-| KT | knock | imitate knocking table |
-| YA | yawn | yawn by one hand |
-| LB | lift | lift both arms up |
-| *r* | tiny/walk/piano | record some random actions |
+<img src="https://raw.githubusercontent.com/GestureMan/mHomeGes-dataset/master/fig/gesturePic.png" width="500"  alt="gesturePic"/><br/>
 
 ## Collection Settings
 
 We set 13 discrete positions as anchor points, so as to give mHomeGes the ability to serve the gestures from random positions:
 
-| Distance (m) to the radar | Person | samples per person |
-| ----- | ----- | ----- |
-| 1.2 | 8 | 30 |
-| 1.35 | 8 | 30 |
-| 1.5 | 8 | 30 |
-| 1.65 | 8 | 30 |
-| 1.8 | 9 | 30 |
-| 1.95 | 8 | 15 |
-| 2.1 | 8 | 15 |
-| 2.25 | 8 | 15 |
-| 2.4 | 14 | 30 |
-| 2.55 | 8 | 15 |
-| 2.7 | 8 | 15 |
-| 2.85 | 8 | 15 |
-| 3 | 9 | 30 |
+
+<img src="https://raw.githubusercontent.com/GestureMan/mHomeGes-dataset/master/fig/anchor.png" width="550"  alt="gesturePic"/><br/>
+
 
 
 ## Directory Structure
