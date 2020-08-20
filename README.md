@@ -11,6 +11,8 @@ Surpassing the whole-body activities, arm gestures can be performed frequently, 
 In addition to these predefined gestures, the dataset also archives random actions at random positions in daily life, which will help the anti-interference ability of gesture recognition via the proposed methods in mHomeGes.
 Specifically, the ten gestures are as follows: 
 
+![gesturePic]{https://github.com/GestureMan/mHomeGes-dataset/fig/gesturePic.png}
+
 | Gesture abbr. in mHomeGes | name in dataset | gesture process |
 | ----- | ----- | ----- |
 | AU | up | lift one arm up |
