@@ -2,7 +2,7 @@
 
 
 This dataset contains the gesture samples used in mHomeGes.
-It is collected by millimeter-wave (mmWave) FMCW radar and has proven to have a satisfactory classification accuracy for 10 arm gestures within 1.2 meters to 3 meters.
+It is collected by millimeter-wave (mmWave) FMCW radar and has proven to have a satisfactory classification accuracy for 10 arm gestures within 1.2 meters to 3 meters. 
 
 ## Gesture Space
 
