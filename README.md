@@ -18,7 +18,7 @@ Specifically, the ten gestures are as follows:
 We set 13 discrete positions as anchor points, so as to give mHomeGes the ability to serve the gestures from random positions:
 
 
-<img src="https://raw.githubusercontent.com/GestureMan/mHomeGes-dataset/master/fig/anchor.png" width="550"  alt="gesturePic"/><br/>
+<img src="https://raw.githubusercontent.com/GestureMan/mHomeGes-dataset/master/fig/anchor.png" width="550"  alt="anchor"/><br/>
 
 
 
