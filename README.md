@@ -51,3 +51,6 @@ In this mmWave gesture dataset, we utilize the TI-IWR1443 single-chip 76-GHz to 
 | frame periodicity | 100 ms |
 | dynamic point detection | CFAR-CA |
 | point energy threshold | 1130 dB |
+
+# How to Cite?
+Haipeng Liu, Yuheng Wang, Anfu Zhou, Hanyue He, Wei Wang, Kunpeng Wang, Peilin Pan, Yixuan Lu, Liang Liu, and Huadong Ma. 2020. Real-time Arm Gesture Recognition in Smart Home Scenarios via Millimeter Wave Sensing. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 4, 4, Article 140 (December 2020), 28 pages. DOI:https://doi.org/10.1145/3432235
